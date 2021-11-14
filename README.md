@@ -1,6 +1,8 @@
 # CardGame
 Card Game Challenge for SAP
 
+https://github.com/FforFrodo/CardGame
+
 # How to Use
 
 *It's almost end of sunday and I only spent 4 hours as requested, but If I had more time:
