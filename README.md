@@ -1,5 +1,5 @@
 # CardGame
-Card Game Challenge for SAP
+Card Game Challenge
 
 https://github.com/FforFrodo/CardGame
 
